@@ -1,3 +1,7 @@
-body {
-  background-color: rgb(189, 255, 189);
+body{
+  /* background-repeat : 반복조절 */
+  background-image: url('https://search.pstatic.net/common/?src=https%3A%2F%2Fg-grafolio.pstatic.net%2F20190620_242%2F15610242755154mp9b_JPEG%2F%25C4%25B8%25C3%25B3.JPG%3Ftype%3Dw896_4&type=sc960_832');
+  background-repeat: no-repeat;
+  background-size: cover;
+/*   background-position: top; */
 }
